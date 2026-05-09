@@ -158,8 +158,7 @@ Bài nộp bao gồm các hình ảnh minh họa sau:
 
 Hệ thống chạy thành công với 3 container chính:  
 
-<img width="977" height="515" alt="z7807091866264_147e1cfe51afdd201eb3b68d71f99529" src="https://github.com/user-attachments/assets/4c3f0498-e334-414d-8462-9dc22ab9e5b2" />  
-
+<img width="1328" height="1184" alt="image" src="https://github.com/user-attachments/assets/21f5f3e2-ef86-4f90-b50f-a05d0cdbe962" />  
 
 - **mariadb_container**: Lưu trữ cơ sở dữ liệu  
 - **phpmyadmin_container**: Quản lý cơ sở dữ liệu  
